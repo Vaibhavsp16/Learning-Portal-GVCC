@@ -1,4 +1,4 @@
-# EduShield Learning Portal
+# Learning Portal
 
 A modern, secure, and minimalistic **Learning Portal** for students to access lecture videos. The application is built using a custom light blue visual theme, prioritizes user experience, and features robust, multi-layered screenshot deterrence and screen recording protection.
 
